@@ -10,6 +10,9 @@ elseif game.PlaceId == 15107361788 then
 elseif game.PlaceId == 14368340794 then
     print("Swim Race Simulator")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kalashinikov1/Owner/main/nadar.lua"))()
+elseif game.PlaceId == 15554632241 then
+    print("Anime Revo")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kalashinikov1/Owner/main/revo.lua"))()
 elseif game.PlaceId == 9144187696 then
     print("OP Magic Simulator")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kalashinikov1/Owner/main/MagicBoxer.lua"))()
